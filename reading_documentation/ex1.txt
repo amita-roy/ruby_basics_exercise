@@ -1,0 +1,7 @@
+  https://ruby-doc.org/ => core API 2.6.3
+  https://docs.ruby-lang.org/en/
+  https://devdocs.io/ruby/
+
+
+
+  

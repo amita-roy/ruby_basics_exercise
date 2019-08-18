@@ -1,0 +1,5 @@
+https://docs.ruby-lang.org/en/2.6.0/syntax/control_expressions_rdoc.html#label-while+Loop
+
+https://devdocs.io/ruby~2.5/syntax/control_expressions_rdoc#label-while+Loop
+
+https://ruby-doc.org/core-2.6.3/doc/syntax/control_expressions_rdoc.html#label-while+Loop
